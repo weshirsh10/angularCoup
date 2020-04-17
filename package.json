@@ -19,7 +19,12 @@
     "@angular/platform-browser": "~9.0.7",
     "@angular/platform-browser-dynamic": "~9.0.7",
     "@angular/router": "~9.0.7",
+    "@nguniversal/express-engine": "^9.0.2",
+    "express-serve-static-core": "^0.1.1",
+    "ngx-cookie": "^4.1.2",
+    "ngx-socket-io": "^3.0.1",
     "rxjs": "~6.5.4",
+    "socket.io-client": "^2.3.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },

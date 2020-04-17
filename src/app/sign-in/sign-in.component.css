@@ -1,0 +1,12 @@
+.signInBody{
+    display: flex;
+    flex-direction: row;
+}
+
+.signInForm{
+    width: 50%;
+}
+
+.playerReadyContainer{
+    width: 50%;
+}
